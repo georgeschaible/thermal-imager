@@ -8,3 +8,6 @@ I purchased the lilygo ttgo t4 v1.3 (February 2025) and found that the screen wo
 Additionally, I could not get the SD card to succesfully mount so I had to make a few changes to the sd.c file as well.
 
 Finally, as Ruslan points out, the text for the device is written in Russian so I thought I would share my python script for converting that to english. Hopefully others find this helpful.
+
+Here is the soldering map I made for version 1.1 of this project:
+![Soldering map](soldering_map.png)
