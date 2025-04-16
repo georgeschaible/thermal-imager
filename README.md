@@ -11,3 +11,5 @@ Finally, as Ruslan points out, the text for the device is written in Russian so 
 
 Here is the soldering map I made for version 1.1 of this project:
 ![Soldering map](soldering_map.png)
+
+I should mention that I found I did not need the low-pass noise filter so I did not use any capacitors for my build.
