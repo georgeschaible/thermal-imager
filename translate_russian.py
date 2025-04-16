@@ -62,7 +62,7 @@ def process_folder(folder_path):
                 process_file(os.path.join(dirpath, filename))
 
 # Set your folder path here
-folder_path = r"C:\Users\georg\OneDrive\Desktop\Personal\Hack_projects\Thermal_imager\mlx90640_thermoimager_v1.1-main\main"
+folder_path = r"path-to-directory\mlx90640_thermoimager_v1.1-main\main"
 
 # Run the translation process
 process_folder(folder_path)
