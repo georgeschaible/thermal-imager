@@ -13,3 +13,5 @@ Here is the soldering map I made for version 1.1 of this project:
 ![Soldering map](soldering_map.png)
 
 I should mention that I found I did not need the low-pass noise filter so I did not use any capacitors for my build.
+
+I have also added a folder (OpenSCAD) that has the source code for a 3D model for the camera case. The design is based off of what Ruslan shared on his hackaday page. OpenSCAD is a free modeling software that is easy to download and will allow you to make any adjustments you see fit for your set up. I hope some folks find this helpful!
