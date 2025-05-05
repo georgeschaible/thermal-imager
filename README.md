@@ -14,4 +14,4 @@ Here is the soldering map I made for version 1.1 of this project:
 
 I should mention that I found I did not need the low-pass noise filter so I did not use any capacitors for my build.
 
-I have also added a folder (OpenSCAD) that has the source code for a 3D model for the camera case. The design is based off of what Ruslan shared on his hackaday page. OpenSCAD is a free modeling software that is easy to download and will allow you to make any adjustments you see fit for your set up. I hope some folks find this helpful!
+I have also added a folder (OpenSCAD) that has the source code and stl files for the camera case. The design is based off of what Ruslan shared on his hackaday page. OpenSCAD is a free modeling software that is easy to download and will allow you to make any adjustments you see fit for your set up. There are files for both the 2.4 and the 2.2 inch inch display. The 2.2 inch display is preferable because it can be mounted in each corner. This 3D design should fit the perfboard style that Ruslan built. I hope some folks find this helpful!
